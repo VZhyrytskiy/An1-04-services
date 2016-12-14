@@ -1,6 +1,6 @@
 {
-  "name": "AngularJS",
-  "version": "0.0.0",
+  "name": "angular-services",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "postinstall": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Vitaliy Zhyrytskyy",
   "license": "ISC",
   "dependencies": {
     "bower": "^1.5.3"
